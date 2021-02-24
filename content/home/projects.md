@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 40
 
 title: Projects
 subtitle: ''
@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Research Fellow, NCSR Demokritos (2019-today)
+    tag: ncsr
+  - name: Software Engineer, VoiceWeb S.A. (2018-2019)
+    tag: voiceweb
+  - name: Software Engineer, G.N.T. Information Systems S.A. (2017-2018)
+    tag: gnt
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
