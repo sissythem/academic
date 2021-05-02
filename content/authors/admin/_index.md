@@ -6,17 +6,19 @@ title: Sissy Themeli
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate at Dep. of Informatics & Telecommunications @UoA
+role: Machine Learning Engineer | Ph.D. Researcher | Ph.D Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Linked Business
+  url: https://www.linkedbusiness.gr/
 - name: SKEL, IIT @NCSR Demokritos
   url: https://www.iit.demokritos.gr
 - name: Department of Informatics and Telecommunications, UoA
   url: https://www.di.uoa.gr
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Candidate at DIT/UoA  and a Research Fellow at the SKEL Lab of IIT at NCSR Demokritos. My research interests lie in the areas of Deep Learning and Natural Language Processing.
+bio: Machine Learning Engineer at Linked Business and Ph.D. Researcher at the SKEL Lab of IIT at NCSR Demokritos studying deep machine learning methods for mining arguments from natural language resources. 
 
 # Interests to show in About widget
 interests:
@@ -73,14 +75,8 @@ email: "c.themeli@gmail.com"
 highlight_name: false
 ---
 
-I am a Ph.D. Candidate at the Department of Informatics and Telecommunications (DIT) at the University of Athens (UoA), 
-studying deep machine learning methods for mining arguments from natural language resources. 
-I hold an M.Sc. in Computer Science from DIT/UoA and a B.Sc. in Management Science and Technology from the Department 
-of Management Science and Technology at the Athens University of Economics and Business. 
-My M.Sc. thesis involved the studying of various text representations and machine learning algorithms to detect Hate Speech in online content. 
+Sissy is a Machine Learning Engineer, currently working at Linked Business, and a Ph.D. Researcher at NCSR Demokritos. Her research interests lie in the areas of Deep Learning and Natural Language Processing. She has also demonstrated experience as a Backend Software Engineer building web services and RESTful APIs as well as dialog management systems for Omni-Channel Natural Language Interactions.
 
-I have also demonstrated experience as a Backend Software Engineer building web services and RESTful APIs as well as 
-dialog management systems for Omni-CHannel Natural Language Interactions. Currently, I am working as a Research 
-Associate at the SKEL Lab of IIT at NCSR Demokritos, participating in EU and national funded projects in the areas of Machine Learning and Natural Language Processing.
+Regarding her academic qualifications, she is a Ph.D. Candidate at the Department of Informatics and Telecommunications (DIT) at the University of Athens (UoA), studying deep machine learning methods for mining arguments from natural language resources. She holds an M.Sc. in Computer Science from the same university and a B.Sc. in Management Science and Technology from the Athens University of Economics and Business. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
