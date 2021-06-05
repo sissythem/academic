@@ -20,6 +20,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python, ML Libraries
+- description: 100%
+  icon: docker
+  icon_pack: fab
+  name: Docker
+- description: 85%
+  icon: kubernetes
+  icon_pack: custom
+  name: Kubernetes
 - description: 90%
   icon: r-project
   icon_pack: fab
